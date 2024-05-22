@@ -51,7 +51,7 @@ We welcome contributions from the community! Follow these steps to add your `Bre
    ```sh
    git checkout -b your-branch-name
    ```
-4. ** Create your Brewfile**
+4. **Create your Brewfile**
    ```sh
    brew bundle dump --file=Brewfile
    ```
