@@ -51,22 +51,26 @@ We welcome contributions from the community! Follow these steps to add your `Bre
    ```sh
    git checkout -b your-branch-name
    ```
-
-4. **Add Your Brewfile**:
+4. ** Create your Brewfile**
+   ```sh
+   brew bundle dump --file=Brewfile
+   ```
+5. **Add Your Brewfile**:
    Place your `Brewfile` in a new directory named after the main purpose or the environment it sets up, for example, `web-development/Brewfile` or `data-science/Brewfile`.
+   If the purpose or environment already exists, use something that makes it unique.
 
-5. **Commit Your Changes**:
+6. **Commit Your Changes**:
    ```sh
    git add .
    git commit -m "Add Brewfile for [describe environment]"
    ```
 
-6. **Push to Your Fork**:
+7. **Push to Your Fork**:
    ```sh
    git push origin your-branch-name
    ```
 
-7. **Create a Pull Request**:
+8. **Create a Pull Request**:
    Go to your fork on GitHub, and you should see a "Compare & pull request" button. Click it and submit your pull request.
 
 ---
