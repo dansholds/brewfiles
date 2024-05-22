@@ -83,7 +83,8 @@ Please follow this directory structure when adding your Brewfile:
 brewfiles/
 ├── README.md
 ├── <category>/
-│   └── Brewfile
+│   └── GitHub Username (i.e, dansholds)
+|      └── Brewfile
 ```
 
 Examples of categories include:
