@@ -4,6 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/dansholds/brewfiles?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/dansholds/brewfiles?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/dansholds/brewfiles?style=for-the-badge)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/grapplingdev?style=for-the-badge)](https://peerlist.io/grapplingdev)
 
 Welcome to the **Brewfiles Repository**! This is a community-driven project where users can share their `Brewfile` configurations. By contributing to this repository, you can help others quickly set up their macOS or Linux environments with Homebrew.
 
