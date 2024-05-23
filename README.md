@@ -43,8 +43,9 @@ We welcome contributions from the community! Follow these steps to add your `Bre
    Click the "Fork" button at the top right of this page to create a copy of this repository under your GitHub account.
 
 2. **Clone Your Fork**:
+
    ```sh
-   git clone https://github.com/dansholds/brewfiles.git
+   git clone https://github.com/<your-username>/brewfiles.git
    cd brewfiles
    ```
 
